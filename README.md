@@ -12,6 +12,11 @@
 + Check out the local challenges and showcase your altheticism.  Become the local champion!
 + Update your profile and bump up your status on our leaderboard by participating in different sport events or winning different challenges.
 
+### Built With:
++ Firebase
++ Google Maps
++ Cocoapods: iOS Social library, SnapKit
+
 Always wanted to take a lapse around the park with a buddy? Now's your chance!
 
 Lapze - *Recess for adults.*  More to come in Version 2.

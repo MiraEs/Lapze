@@ -2,7 +2,7 @@
 
 **Team:** [Madushani Lekam Wasam Liyanage](https://www.linkedin.com/in/madushani-lekam-wasam-liyanage-74319bb5/), [Jermaine Kelly](https://www.linkedin.com/in/jermaine-kelly/), [Ilmira Estil](https://www.linkedin.com/in/ilmiraestil/)
 
-**LAPZE** is a social-fitness meetup app.  Want to join a pick-up game at the park?  Can't really afford a gym membership? Find users who like outdoor activities around your neighborhood in real time, or showcase your altheticism and become the local champion!  Check out our presentation at [Square Space](https://www.youtube.com/watch?v=D08l0X4W-dU&feature=youtu.be)!
+**LAPZE** is a social-fitness meetup app.  Want to join a pick-up game at the park?  Can't really afford a gym membership? Find users who like outdoor activities around your neighborhood in real time, or showcase your altheticism and become the local champion!  Check out our presentation at [Squarespace](https://www.youtube.com/watch?v=D08l0X4W-dU&feature=youtu.be)!
 
 ![Demo](https://github.com/MiraEs/Lapze/blob/master/lapzeDemo.gif)
 
